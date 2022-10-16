@@ -11,9 +11,9 @@
 
 <details>
   <summary>Links</summary>
-  Website: https://fyreblitz.com<br/>
-  Discord: https://discord.gg/8dUwGewqfv<br/>
-  YouTube: https://www.youtube.com/channel/UC8qgPZtW-NjbjvCY_bR8CVw
+    Website: https://fyreblitz.com<br/>
+    Discord: https://discord.gg/8dUwGewqfv<br/>
+    YouTube: https://www.youtube.com/channel/UC8qgPZtW-NjbjvCY_bR8CVw
 </details>
 
 FyreBlitz is a company wanting to make a difference in the corperate world, trying to do flip the things how they are right now and improve them.
