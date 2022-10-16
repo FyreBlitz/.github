@@ -7,6 +7,7 @@
 </h3>
 <br/>
 
+# FyreBlitz Open Source Project (FB-OSP)
 ## Note: We're not yet released, preorders open soon.
 
 <details>
