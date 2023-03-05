@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center" style="font-weight: 300">
- Awake the power within 
+ Awake new Powers of your App/Platform. 
 </h3>
 <br/>
 
