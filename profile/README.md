@@ -16,4 +16,4 @@
     YouTube: https://www.youtube.com/@FyreBlitz
 </details>
 
-FyreBlitz is a company wanting to make a difference in the corperate world, trying to do flip the things how they are right now and improve them.
+FyreBlitz is a company wanting to make a difference in the corporate world, trying to do flip the things how they are right now and improve them.
