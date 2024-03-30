@@ -1,5 +1,5 @@
 <h3 align="center" style="border: none">
-  <img src="https://www.fyreblitz.com/public/img/FyreBlitz.png?d=2" height="150px" />
+  <img src="https://github.com/FyreBlitz/.github/assets/72300200/1302b341-6cbe-432e-bc22-cf9046f0a8ee" height="112px" />
 </h3>
 
 <h3 align="center" style="font-weight: 300">
