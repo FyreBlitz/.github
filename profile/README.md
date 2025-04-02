@@ -23,7 +23,7 @@ Technically, it also stores the FyreBlitz source-code, but that's seecreeet oooo
 
 ### Our goals
 
-- [ ] **Priority:** Launch FyreBlitz (by 2026)
+- [ ] **Priority:** Launch FyreBlitz (by 2026/27)
 - [ ] Launch Rebxd Cloud (a FyreBlitz Product) (by 2025)
 - [ ] Launch the [Cryticl](https://cryticl.com) project (unscheduled)
 - [ ] Get [ArcticOS](https://arcticos.org) fully funded
@@ -40,9 +40,4 @@ These are just random experiments or thinks we might've made in the past, not ga
 > I don't want to be the ordinary corporation we all know, but something not interested in high profits or stakeholders tearing apart the userbase.<br>
 > We go above and beyond for our users, not the other way around.
 
-*\- Engin Ünel, founder of [The FyreBlitz™ Corp.](https://fyreblitz.com/)*
-
-Our child businesses:
-- @Reboxed (scheduled soon)
-- @Arctic-OS (paused)
-- @Cryticl
+*\- Engin Ünel, founder of [The FyreBlitz Corp.](https://fyreblitz.com/)*
