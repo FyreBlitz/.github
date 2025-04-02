@@ -41,3 +41,8 @@ These are just random experiments or thinks we might've made in the past, not ga
 > We go above and beyond for our users, not the other way around.
 
 *\- Engin Ünel, founder of [The FyreBlitz™ Corp.](https://fyreblitz.com/)*
+
+Our child businesses:
+- @Reboxed (scheduled soon)
+- @Arctic-OS (paused)
+- @Cryticl
