@@ -5,6 +5,12 @@
  From building to shipping, the most powerful platform, yet. 
 </h3>
 
+> [!IMPORTANT]
+> Thanks for everything, this project has taught me a ton over the years but it's time for me to move on.
+> I've begun a different project that I am far more excited in and this one has just drained me far past what I'd like to admit so may it rest in peace.  
+> You taught me a lot my old man, you were there when my software engineering career properly begun, but unfortunately, you won't be there anymore for the journey that may come going forward.  
+> You were like a child to me, thanks. And thanks to all the friends I made through this project. I appreciate all of you.
+
 ---
 
 ### The FyreBlitz Open Source Project
